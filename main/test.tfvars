@@ -1,4 +1,4 @@
-username                     = "avigneau"
+username                     = "<fill_this_in>"
 region                       = "AWS_US_EAST_1"
 group_id                     = "permitted_chuck"
 bootcamp_role_arn            = "arn:aws:iam::545053092614:role/iam_for_lambda"
